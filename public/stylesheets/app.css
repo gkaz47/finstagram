@@ -1,0 +1,30 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+
+body {
+    font-family: 'Roboto', monospace;
+    background-color: whitesmoke;
+}
+
+.user-info .user-name:hover{
+    color: red;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
+/*
+.photo img {
+  border-radius: 50%;
+}*/
